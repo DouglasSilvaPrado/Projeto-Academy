@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+html,
+body {
+  height: 100%;
+}
+
+nav{height: 90px}
+
+@media(max-width:991px){
+	.nav-link{
+		background-color: black;
+	}
+}
+
+.container-img{
+	background-image:url("/img/bg-index.jpg");
+	background-size: cover !important;
+	background-repeat: no-repeat;
+	background-position: center;
+	opacity: 0.7;
+	height: 90vh;
+}
+
+.btn-primary{
+	background: rgba(0,0,0,0.5);
+	border-color: white;
+}
+
+.btn-primary:hover{
+	background: rgba(0,0,0,0.8);
+	border-color: white;
+}
