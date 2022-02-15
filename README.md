@@ -15,4 +15,4 @@
  
  <h2>Video Demo</h2>
 https://www.youtube.com/watch?v=QBIFclPARxA&ab_channel=Estudos
-<img src="" />
+<img src="src/main/resources/static/img/projetoAcademy.gif" />
