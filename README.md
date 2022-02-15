@@ -9,9 +9,10 @@
   <li>Jpa</li>
   <li>Bootstrap</li>
   <li>HTML, CSS, JS</li>
-  <li>thymeleaf</li>
-  <li>validation</li>
+  <li>Thymeleaf</li>
+  <li>Validation</li>
 </ul>
  
  <h2>Video Demo</h2>
 https://www.youtube.com/watch?v=QBIFclPARxA&ab_channel=Estudos
+<img src="" />
